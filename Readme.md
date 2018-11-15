@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))
+* [Program.cs](./CS/WindowsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsApplication3/Program.vb))
+* [Selection.cs](./CS/WindowsApplication3/Selection.cs) (VB: [SelectionHelper.vb](./VB/WindowsApplication3/SelectionHelper.vb))
+* [SelectionHelper.cs](./CS/WindowsApplication3/SelectionHelper.cs) (VB: [SelectionHelper.vb](./VB/WindowsApplication3/SelectionHelper.vb))
+* [SelectionProvider.cs](./CS/WindowsApplication3/SelectionProvider.cs) (VB: [SelectionProvider.vb](./VB/WindowsApplication3/SelectionProvider.vb))
+* [SelectOperaion.cs](./CS/WindowsApplication3/SelectOperaion.cs) (VB: [SelectOperaion.vb](./VB/WindowsApplication3/SelectOperaion.vb))
+<!-- default file list end -->
 # How to enable the Multi Selection feature in VGridControl
 
 
