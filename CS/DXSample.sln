@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXSample", "WindowsApplication3\DXSample.csproj", "{C9740F01-FD9E-443A-9F9F-DD3BF20E74E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXSample", "DXSample\DXSample.csproj", "{C9740F01-FD9E-443A-9F9F-DD3BF20E74E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
