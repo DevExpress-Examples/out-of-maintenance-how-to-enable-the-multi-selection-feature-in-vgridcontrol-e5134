@@ -1,7 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Windows.Forms;
 using DevExpress.Skins;
+using System;
+using System.Windows.Forms;
 
 namespace DXSample {
     static class Program {
